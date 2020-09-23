@@ -7,4 +7,5 @@ int main()
   cout << "Introduce un numero:";
   cin >> val;
   cout << "El numero es: " << val << endl;
+  cout << "Linea adicional\n";
 }

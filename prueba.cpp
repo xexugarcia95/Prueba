@@ -3,5 +3,8 @@ using namespace std;
 
 int main()
 {
-  cout << "Hola, esto es una prueba para github\n";
+  int val = 0;
+  cout << "Introduce un numero:";
+  cin >> val;
+  cout << "El numero es: " << val << endl;
 }
